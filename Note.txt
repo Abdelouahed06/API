@@ -1,2 +1,2 @@
 this an API for App info 
-PROJECT [AppSrote]
+PROJECT [AppSrote]:name-app_icon-type-category-description-rate-screenshots-price-size-developer-version
