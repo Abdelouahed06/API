@@ -2,7 +2,7 @@
     { "id": 1, "title": "html Book 1", "category": "programming", "isFree": true, "price": "$0.00", "image": "https://via.placeholder.com/150" },
     { "id": 2, "title": "css Book 1", "category": "programming", "isFree": false, "price": "$15.99", "image": "https://via.placeholder.com/150" },
     { "id": 3, "title": "Technology Book 1", "category": "Technology", "isFree": true, "price": "$0.00", "image": "https://via.placeholder.com/150" },
-    { "id": 4, "title": "Fiction Book 2", "category": "Fiction", "isFree": false, "price": "$9.99", "image": "https://via.placeholder.com/150" },
+    { "id": 4, "title": "javascript Book 2", "category": "programming", "isFree": false, "price": "$9.99", "image": "https://via.placeholder.com/150" },
     { "id": 5, "title": "Science Book 2", "category": "Science", "isFree": true, "price": "$0.00", "image": "https://via.placeholder.com/150" },
     { "id": 6, "title": "Technology Book 2", "category": "Technology", "isFree": false, "price": "$12.99", "image": "https://via.placeholder.com/150" }
 ]
