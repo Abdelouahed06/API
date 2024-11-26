@@ -3,7 +3,7 @@
       "_id": "P001",
       "nom": "T-shirt en coton",
       "description": "T-shirt confortable en coton bio.",
-      "image": "https://example.com/images/tshirt_coton.jpg",
+      "image": "https://i.ibb.co/8cNHxBM/RT.png",
       "categorie": {
         "_id": "C001",
         "nom": "Homme"
@@ -14,35 +14,35 @@
           "couleur" : { "nom": "Rouge", "code" : "#F00" },
           "quantiteEnStock": 10,
           "prix": 19.99,
-          "image": "https://example.com/images/Homme/P001_Rouge.jpg"
+          "image": "https://i.ibb.co/8cNHxBM/RT.png"
         },
         {
           "taille": "M",
           "couleur" : { "nom": "Jaune", "code" : "#FF0" },
           "quantiteEnStock": 5,
           "prix": 19.99,
-          "image": "https://example.com/images/Homme/P001_Rouge.jpg"
+          "image": "https://i.ibb.co/YBg1021/YT.png"
         },
         {
           "taille": "XL",
           "couleur" : { "nom": "Vert",  "code" : "#0F0" },
           "quantiteEnStock": 8,
           "prix": 21.99,
-          "image": "https://example.com/images/Homme/P001_Vert.jpg"
+          "image": "https://i.ibb.co/QYFjd3p/VT.png"
         },
         {
           "taille": "XL",
           "couleur" : { "nom": "Rouge",  "code" : "#F00" },
           "quantiteEnStock": 12,
           "prix": 62.99,
-          "image": "https://example.com/images/Homme/P001_Bleu.jpg"
+          "image": "https://i.ibb.co/8cNHxBM/RT.png"
         },
         {
           "taille": "XL",
           "couleur" : { "nom": "Vert",  "code" : "#0F0" },
           "quantiteEnStock": 12,
           "prix": 22.99,
-          "image": "https://example.com/images/Homme/P001_Bleu.jpg"
+          "image": "https://i.ibb.co/QYFjd3p/VT.png"
         }
       ]
     },
