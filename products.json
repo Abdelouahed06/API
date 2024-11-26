@@ -61,21 +61,21 @@
           "couleur" : { "nom": "Noir",  "code" : "#000" },
           "quantiteEnStock": 90,
           "prix": 39.99,
-          "image": "https://example.com/images/Homme/P002_Noir.jpg"
+          "image": "https://i.ibb.co/tMPmRXc/JN.png"
         },
         {
           "taille": "L",
           "couleur" : { "nom": "Bleu", "code" : "#00F" },
           "quantiteEnStock": 4,
           "prix": 42.99,
-          "image": "https://example.com/images/Homme/P002_Bleu.jpg"
+          "image": "https://i.ibb.co/DYhYLKp/JB.png"
         },
         {
           "taille": "XL",
           "couleur" : { "nom": "Gris",  "code" : "#777" },
           "quantiteEnStock": 9,
           "prix": 44.99,
-          "image": "https://example.com/images/Homme/P002_Gris.jpg"
+          "image": "https://i.ibb.co/GcGq63y/JG.png"
         }
       ]
     },
