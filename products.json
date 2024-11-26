@@ -94,21 +94,21 @@
           "couleur" : { "nom": "Blanc", "code" : "#EEE" },
           "quantiteEnStock": 15,
           "prix": 29.99,
-          "image": "https://example.com/images/Femme/P003_Blanche.jpg"
+          "image": "https://i.ibb.co/BfPDsWg/BR.png"
         },
         {
           "taille": "M",
           "couleur" : { "nom": "Rose",  "code" : "#F99" },
           "quantiteEnStock": 10,
           "prix": 32.99,
-          "image": "https://example.com/images/Femme/P003_Rose.jpg"
+          "image": "https://i.ibb.co/zVQKzsn/PR.png"
         },
         {
           "taille": "L",
           "couleur" : { "nom": "Rouge",  "code" : "#F00" },
           "quantiteEnStock": 5,
           "prix": 35.99,
-          "image": "https://example.com/images/Femme/P003_Rouge.jpg"
+          "image": "https://i.ibb.co/pdGbkKr/RR.png"
         }
       ]
     }
