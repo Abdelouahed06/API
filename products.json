@@ -1,0 +1,116 @@
+[
+    {
+      "_id": "P001",
+      "nom": "T-shirt en coton",
+      "description": "T-shirt confortable en coton bio.",
+      "image": "https://example.com/images/tshirt_coton.jpg",
+      "categorie": {
+        "_id": "C001",
+        "nom": "Homme"
+      },
+      "variations": [
+        {
+          "taille": "S",
+          "couleur" : { "nom": "Rouge", "code" : "#F00" },
+          "quantiteEnStock": 10,
+          "prix": 19.99,
+          "image": "https://example.com/images/Homme/P001_Rouge.jpg"
+        },
+        {
+          "taille": "M",
+          "couleur" : { "nom": "Jaune", "code" : "#FF0" },
+          "quantiteEnStock": 5,
+          "prix": 19.99,
+          "image": "https://example.com/images/Homme/P001_Rouge.jpg"
+        },
+        {
+          "taille": "XL",
+          "couleur" : { "nom": "Vert",  "code" : "#0F0" },
+          "quantiteEnStock": 8,
+          "prix": 21.99,
+          "image": "https://example.com/images/Homme/P001_Vert.jpg"
+        },
+        {
+          "taille": "XL",
+          "couleur" : { "nom": "Rouge",  "code" : "#F00" },
+          "quantiteEnStock": 12,
+          "prix": 62.99,
+          "image": "https://example.com/images/Homme/P001_Bleu.jpg"
+        },
+        {
+          "taille": "XL",
+          "couleur" : { "nom": "Vert",  "code" : "#0F0" },
+          "quantiteEnStock": 12,
+          "prix": 22.99,
+          "image": "https://example.com/images/Homme/P001_Bleu.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "P002",
+      "nom": "Jean slim",
+      "description": "Jean slim fit avec un look moderne.",
+      "image": "https://example.com/images/jean_slim.jpg",
+      "categorie": {
+        "_id": "C001",
+        "nom": "Homme"
+      },
+      "variations": [
+        {
+          "taille": "M",
+          "couleur" : { "nom": "Noir",  "code" : "#000" },
+          "quantiteEnStock": 90,
+          "prix": 39.99,
+          "image": "https://example.com/images/Homme/P002_Noir.jpg"
+        },
+        {
+          "taille": "L",
+          "couleur" : { "nom": "Bleu", "code" : "#00F" },
+          "quantiteEnStock": 4,
+          "prix": 42.99,
+          "image": "https://example.com/images/Homme/P002_Bleu.jpg"
+        },
+        {
+          "taille": "XL",
+          "couleur" : { "nom": "Gris",  "code" : "#777" },
+          "quantiteEnStock": 9,
+          "prix": 44.99,
+          "image": "https://example.com/images/Homme/P002_Gris.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "P003",
+      "nom": "Robe d'été",
+      "description": "Robe légère et élégante pour les journées ensoleillées.",
+      "image": "https://example.com/images/robe_ete.jpg",
+      "categorie": {
+        "_id": "C002",
+        "nom": "Femme"
+      },
+      "variations": [
+        {
+          "taille": "S",
+          "couleur" : { "nom": "Blanc", "code" : "#EEE" },
+          "quantiteEnStock": 15,
+          "prix": 29.99,
+          "image": "https://example.com/images/Femme/P003_Blanche.jpg"
+        },
+        {
+          "taille": "M",
+          "couleur" : { "nom": "Rose",  "code" : "#F99" },
+          "quantiteEnStock": 10,
+          "prix": 32.99,
+          "image": "https://example.com/images/Femme/P003_Rose.jpg"
+        },
+        {
+          "taille": "L",
+          "couleur" : { "nom": "Rouge",  "code" : "#F00" },
+          "quantiteEnStock": 5,
+          "prix": 35.99,
+          "image": "https://example.com/images/Femme/P003_Rouge.jpg"
+        }
+      ]
+    }
+  ]
+    
