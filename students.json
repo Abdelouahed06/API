@@ -1,3 +1,12 @@
 [
-    { "id": 1, "fName": "Abdelouahed", "lName": "Essaadouny", "bio": "Student", "class" :"1bacS", "Email": "a.essaadouny@gmail.com, "tele": "0687539845", "image": "https://via.placeholder.com/150" }
+    { "id": 1, "fName": "Abdelouahed", "lName": "Essaadouny", "bio": "Student", "class": "1bacS", "Email": "a.essaadouny@gmail.com", "tele": "0687539845", "image": "https://via.placeholder.com/150" },
+    { "id": 2, "fName": "Sara", "lName": "Benali", "bio": "Student", "class": "1bacS", "Email": "s.benali@gmail.com", "tele": "0612345678", "image": "https://via.placeholder.com/150" },
+    { "id": 3, "fName": "Omar", "lName": "El Fassi", "bio": "Student", "class": "1bacS", "Email": "o.elfassi@gmail.com", "tele": "0623456789", "image": "https://via.placeholder.com/150" },
+    { "id": 4, "fName": "Imane", "lName": "Rachid", "bio": "Student", "class": "1bacS", "Email": "i.rachid@gmail.com", "tele": "0634567890", "image": "https://via.placeholder.com/150" },
+    { "id": 5, "fName": "Yassine", "lName": "Bakkali", "bio": "Student", "class": "1bacS", "Email": "y.bakkali@gmail.com", "tele": "0645678901", "image": "https://via.placeholder.com/150" },
+    { "id": 6, "fName": "Nour", "lName": "El Mehdi", "bio": "Student", "class": "1bacS", "Email": "n.elmehdi@gmail.com", "tele": "0656789012", "image": "https://via.placeholder.com/150" },
+    { "id": 7, "fName": "Anas", "lName": "Hajji", "bio": "Student", "class": "1bacS", "Email": "a.hajji@gmail.com", "tele": "0667890123", "image": "https://via.placeholder.com/150" },
+    { "id": 8, "fName": "Lina", "lName": "Touhami", "bio": "Student", "class": "1bacS", "Email": "l.touhami@gmail.com", "tele": "0678901234", "image": "https://via.placeholder.com/150" },
+    { "id": 9, "fName": "Mehdi", "lName": "Jabri", "bio": "Student", "class": "1bacS", "Email": "m.jabri@gmail.com", "tele": "0689012345", "image": "https://via.placeholder.com/150" },
+    { "id": 10, "fName": "Salma", "lName": "Amrani", "bio": "Student", "class": "1bacS", "Email": "s.amrani@gmail.com", "tele": "0690123456", "image": "https://via.placeholder.com/150" }
 ]
